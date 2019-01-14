@@ -1,0 +1,7 @@
+C:\Users\aniket.bapat.ENG\Aniket\SudokuSolver\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\aniket.bapat.ENG\Aniket\SudokuSolver\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\aniket.bapat.ENG\Aniket\SudokuSolver\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\aniket.bapat.ENG\Aniket\SudokuSolver\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\aniket.bapat.ENG\Aniket\SudokuSolver\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\aniket.bapat.ENG\Aniket\SudokuSolver\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\aniket.bapat.ENG\Aniket\SudokuSolver\SudokuSolver\SudokuSolver\bin\Debug\Puzzle.txt
